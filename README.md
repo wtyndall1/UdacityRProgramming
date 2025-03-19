@@ -1,1 +1,1 @@
-# UdacityRProgramming
+# UdacityRProgramming This is my R Programming Project for Udacity's R Programing course. I am unable to use the Udacity submission tool, so I can creating this in order to be able to submit the project.
